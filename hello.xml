@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
 <message>
+<<<<<<< HEAD
   <text>Hello from master branch (different content)</text>
 </message>
+=======
+  <text>Hello from GitWork branch</text>
+</message>
+<note>Updated in branch</note>
+>>>>>>> GitWork
